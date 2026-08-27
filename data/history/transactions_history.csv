@@ -1,0 +1,7 @@
+timestamp,amount,payment_method,merchant_category,risk_score,risk_level,recommended_action,amount_deviation,transactions_last_10min,transactions_last_1h,transactions_last_24h,device_age_days,device_transaction_count,location_distance_km,ip_risk_score,failed_attempts_24h,previous_fraud_count,customer_age_days,customer_avg_amount,account_velocity_score,chargeback_history,transaction_hour,is_weekend,fraud_probability,order_count,return_count,rto_count,failed_delivery_count,cod_orders,linked_accounts,shared_device_accounts,shared_ip_accounts,return_risk_score,chargeback_risk_score,abuse_ring_risk_score
+2026-08-25 23:57:38,2500.0,UPI,Food,7.7,LOW,APPROVE,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,0,0
+2026-08-26 00:23:25,2500.0,UPI,Food,24.1,LOW,APPROVE,8.4,500.0,2000.0,5.0,500.0,2.0,10.0,0.84,0.0,0.0,1000.0,2200.0,0.2,0.0,20.0,0.0,0.241,,,,,,,,,0.0,0,0
+2026-08-26 00:25:44,2500.0,UPI,Food,84.85,HIGH,BLOCK,8.4,500.0,2000.0,5.0,500.0,2.0,10.0,0.35,6.0,6.0,100001.0,200000.0,0.86,7.0,5.0,0.0,0.8485,,,,,,,,,0.0,0,0
+2026-08-26 00:26:42,2500.0,UPI,Food,51.7,MEDIUM,MANUAL REVIEW,8.4,500.0,2000.0,5.0,500.0,2.0,10000.0,0.82,4.0,6000.0,100.0,200.0,0.23,4.0,2.0,0.0,0.517,,,,,,,,,0.0,0,0
+2026-08-26 00:27:02,2500.0,UPI,Food,51.7,MEDIUM,MANUAL REVIEW,8.4,500.0,2000.0,5.0,500.0,2.0,10000.0,0.82,4.0,6000.0,100.0,200.0,0.28,4.0,7.0,0.0,0.517,,,,,,,,,0.0,0,0
+2026-08-28 02:06:28,25000.0,UPI,Food,86.95,HIGH,BLOCK,8.2,100.0,200.0,20.0,518.0,2.0,10.0,0.88,3.0,0.0,4000.0,2200.0,0.84,0.0,20.0,0.0,0.8695,10,0,0,0,2,1,1,100,7.0,45,40
